@@ -1,0 +1,330 @@
+[
+    {
+        "age-name": "Stone Age",
+        "time":" 1,400,000 - 4500 BC",
+        "desc": "The oldest part of a human skeleton found in Palestine is dated to about 1.4 million years ago. People would then have lived by the shores of rivers and lakes, which were numerous because the area received much more rain than it does today. Here pluvial and dry periods corresponded to the glacial and inter-glacial periods in Europe. Large animals abounded in the savannah-type landscape, and as the technique of making flint tools improved, the hunters could move further from sources of this basic raw material in search of game. By the end of the Stone Age a good artisan could get 6 m of cutting edge from the kilo of flint that at the beginning produced only 10 cm of cutting edge. Evidence of fire first appears about 200,000 BC, but the major revolution occurred between 10,000 and 8000 BC when the economy shifted from food-gathering to food-producing. The domestication of animals and the production of grain permitted nomads to settle, and this forced them to develop new skills and a new type of social organization: villages replaced camps, and pottery took the place of stone vessels.",
+        "img-url":"https://upload.wikimedia.org/wikipedia/commons/9/98/PikiWiki_Israel_412_Ein_Gedi_temple_%D7%94%D7%9E%D7%A7%D7%93%D7%A9_%D7%94%D7%9B%D7%9C%D7%A7%D7%95%D7%9C%D7%99%D7%AA%D7%99_%D7%91%D7%A2%D7%99%D7%9F-%D7%92%D7%93%D7%99.jpg",
+        "places":[
+            {
+            "age-name": "Paleolithic Age",
+            "time":" 750,000 - 16,000 BC",
+            "desc": "Neoltithic AGs",
+            "img-url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Lascaux_painting.jpg/640px-Lascaux_painting.jpg",
+            "caption": "Lascaux - Wikipedia"
+        },
+    
+        {
+            "age-name": "Mesolithic Age",
+            "time": " 16,000 - 8000 BC",
+            "desc": "dsf",
+            "img-url":"https://upload.wikimedia.org/wikipedia/commons/d/d6/Hunter_gatherer%27s_camp_at_Irish_National_Heritage_Park_-_geograph.org.uk_-_1252699.jpg",
+            "caption":"Mesoloithic - Wikipedia"
+        },
+    
+        {
+            "age-name": "Neolithic Age",
+            "time":" 8200 - 4000 BC",
+            "desc": "Neolithic Age",
+            "img-url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Asikli_Hoyuk_sarah_c_murray_6176.jpg",
+            "caption": "Neolithic - Wikipedia"
+        },
+    
+        {
+            "age-name": "Chalcolithic Age",
+            "time":" 4000 - 3200 BC",
+            "desc": "Neolithic Age",
+            "img-url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Los_Millares_recreacion_cuadro.jpg/220px-Los_Millares_recreacion_cuadro.jpg", 
+            "caption": "Chalcolithic"
+        }
+        ]
+        
+    },
+
+    {
+        "age-name": "The Copper and Bronze Age",
+        "time": " 4500 - 1200 BC",
+        "desc": "The first settlements were near springs because the recession of the ice cap resulted in a much drier climate in Palestine. Trade in a new raw material, copper, lessened the isolation of the villages and fostered the spread of culture and ideas. Villages blessed with a strategic location on a trade route grew to fortified towns. Urban life facilitated the development of specialized skills; the potter's wheel was introduced and copper was combined with tin to produce a much harder metal, bronze. Evolution progressed much more quickly in the great river valleys of the Nile and Tigris-Euphrates. Empires grew up in Egypt and Mesopotamia while Palestine remained a mosaic of city-states. Energetic Pharaohs assumed control of the coastal plain of Palestine and had held it for several hundred years by the time (c .1800 BC) a group of nomads arrived from Mesopotamia led by Abraham. His tribe ranged freely in the mountains until famine forced them to migrate to the great granary of Egypt. The Israelites remained there until Moses led the exodus c .1250 BC. While Joshua was carving out territory in the hill country, the Sea Peoples, repulsed by Egypt, installed themselves in the coastal plain, Philistia.",
+        "img-url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Treasure_of_Nahal_Mishmar_%288%29.JPG/1280px-Treasure_of_Nahal_Mishmar_%288%29.JPG",
+        "places":[
+            {
+                "age-name": "Bronze Age",
+                "time":" 3200 - 1200 BC",
+                "desc": "Bronze Age",
+                "img-url": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/qglugdo1ppgikr5wrowb.jpg",
+                "caption": "Chalcolithic"
+            }
+        ]
+    },
+
+    {
+        "age-name": "Iron Age",
+        "time":"1200 - 586 BC",
+        "desc": "The Philistines and the Canaanites had developed the use of iron and their chariotry controlled the plain and the wide valleys that penetrated into the mountains. The pressure they exercised eventually forced the Israelites to abandon their loose tribal system in favour of a centralized monarchy. The success of the first king, Saul, was limited, but David (1004 - 965 BC) made the new system work; he conquered a new capital, Jerusalem, and made it an effective political centre by installing there the Ark of the Covenant, the religious symbol to which all Jews gave allegiance. Solomon (965-928 BC) consolidated the victories of his father but the price demanded—tight bureaucratic control and heavy taxes—proved too much for his people. On his death the northern portion of his realm seceded and became the kingdom of Israel in which bloody uprisings became the normal means of succession to the throne. In both Israel and the southern kingdom of Judah prophets cried out for purity of faith and condemned blatant social injustices. \n In the C8 BC a reborn Assyria swept out across the Fertile Crescent subduing the Aramaean kingdoms of Syria  which had frequently threatened the two Israelite states. Their turn was soon to come. After dismembering Israel in 721 BC, the Assyrians laid Judah under tribute and made themselves masters of Lower Egypt. As Assyria gradually weakened, Babylon grew strong and by 600 BC controlled all Mesopotamia. Jerusalem fell in 586 BC and the people of Judah suffered the traumatic experience of the Exile.",
+        "img-url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Outer_opening_of_the_chambered_gate_at_Megiddo_%28B%29_%2820693218186%29.jpg/1280px-Outer_opening_of_the_chambered_gate_at_Megiddo_%28B%29_%2820693218186%29.jpg",
+        "places":[
+            {
+                "age-name": "Iron Age",
+                "time":" 1200 - 587 BC",
+                "desc": "Iron Age",
+                "img-url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Antenna_sword.jpg/220px-Antenna_sword.jpg",
+                "caption": "Chalcolithic"
+            },
+        
+            {
+                "age-name": "Neo Assyrian Empire",
+                "time":" 883 - 612 BC",
+                "desc": "Neo Assyrian Empire",
+                "img-url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Exhibition_I_am_Ashurbanipal_king_of_the_world%2C_king_of_Assyria%2C_British_Museum_%2831033563287%29.jpg/800px-Exhibition_I_am_Ashurbanipal_king_of_the_world%2C_king_of_Assyria%2C_British_Museum_%2831033563287%29.jpg",
+                "caption": "Chalcolithic"
+            },
+        
+            {
+                "age-name": "Neo Babylonian Empire",
+                "time":" 605 - 539 BC",
+                "desc": "Neo Babyloinian EMpire",
+                "img-url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/2018_Ashurbanipal_-_Tile.jpg/220px-2018_Ashurbanipal_-_Tile.jpg",
+                "caption": "Chalcolithic"
+            }
+        ]
+    },
+
+    {
+        "age-name": "Persian Period",
+        "time":"538 - 332 BC",
+        "desc": "The Jews were permitted to return to their homeland (538 BC) by Cyrus, king of Persia, whose army had taken Babylon the year before. Syria and Palestine became but one remote province of an empire that covered the  whole of the Middle East. The Jews had to suffer the hostility of the Samaritans until a Jewish governor, Nehemiah, was appointed in the middle of the C5 BC. His political manoeuvres achieved a quasiindependence, and the  morale of the people was strengthened by the religious reform of Esdras.",
+        "img-url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Cyrus_Cylinder.jpg/1280px-Cyrus_Cylinder.jpg",
+        "places":[
+            {
+                "age-name": "Persian Empire",
+                "time":" 539 - 333 BC",
+                "desc": "Persians Rule",
+                "img-url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Darius_I_%28The_Great%29.jpg",
+                "caption": "Chalcolithic"
+            }
+        ]
+    },
+    {
+        "age-name": "Hellenistic Period",
+        "time":"332 - 63 BC",
+        "desc": "Alexander the Great brought the Persian Empire to an end in 331 BC, having campaigned in Palestine the previous year. After his death in 323 BC his generals carved up his short-lived empire: Ptolemy acquired Egypt and Palestine while Syria and Babylon fell to the lot of Seleucus. Palestine became the battleground of these two dynasties, but the Ptolemies held it until 200 BC when it passed into the hands of the Seleucids. /n Since the Exile the High Priest had been obliged to assume many of the functions previously discharged by the king. In order to guarantee their dominance the Seleucids had to control this office. Their nominees displaced the traditional Sadokite dynasty, but the extent of foreign influence,  particularly in so far as it touched religion, eventually sparked off a revolt led by the three Maccabaean brothers in 167 BC. What began as a struggle for religious freedom soon became a successful fight for political independence. The bloodline of the Maccabees evolved into the Hasmonean dynasty which extended Jewish dominance to the whole of Palestine, the Golan and the east bank of the Jordan, almost the extent of the empire of David and Solomon.",
+        "img-url":"https://upload.wikimedia.org/wikipedia/commons/9/93/Stattler-Machabeusze.jpg",
+        "places":[
+            {
+                "age-name": "Rule of Alexander the Great",
+                "time":" 336 - 323 BC",
+                "desc": "Alexander rules and rocks",
+                "img-url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Alexander_the_Great_mosaic_%28cropped%29.jpg",
+                "caption": "Chalcolithic"
+            },
+        
+        
+            {
+                "age-name": "Wars for Alexander's Successor",
+                "time":" 323 - 281 BC",
+                "desc": "successors figh",
+                "img-url": "https://m.media-amazon.com/images/I/61S8cAqDk6L.jpg",
+                "caption": ""
+            },
+        
+            {
+                "age-name": "Hellenistic Reign",
+                "time":" 280 - 63 BC",
+                "desc": " Maccabees time",
+                "img-url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Laocoon_Pio-Clementino_Inv1059-1064-1067.jpg/300px-Laocoon_Pio-Clementino_Inv1059-1064-1067.jpg",
+                "caption": ""
+            }
+        ]
+
+    },
+
+    {
+        "age-name": "Roman Period",
+        "time":"63 BC - 324 AD",
+        "desc": "A strong Jewish state served the interests of Rome as a buffer against the Parthians, but when internecine struggles paralysed the Hasmoneans the Romans had to step in and take control in 63 BC. They preferred, however, to have a client state and when a strong Romanophile ruler emerged in the person of Herod the Great (37-34 BC) they gave him autonomy and, where possible, added new territories to his domain. Herod's sons lacked the qualities of their father, forcing the Romans to resume direct control in CE 6. Political authority was vested in a Procurator who resided in Caesarea. \n The ministry of Jesus of Nazareth (CE 27-30), destined to have such tremendous consequences for the world, was at the time but one factor in an intense religious and political ferment which, under Roman mismanagement, exploded into the First Revolt in CE 66. In reprisal Titus and Vespasian laid waste the land. The destruction of the Temple in CE 70 precipitated a major shift within Judaism; sacrificial worship was no longer possible and the old priestly aristocracy ceded their primacy to jurists convinced that a scattered community could only be held together by obedience to a common law. \n Jerusalem, however, remained central. When the emperor Hadrian proposed so many benefactions that for Jews it risked becoming a pagan city the Second Revolt (CE 132-5) erupted. It was led by Bar Kokhba whom some considered to be the Messiah. With difficulty the Romans prevailed and Aelia Capitolina was built on the levelled ruins of Jerusalem. Excluded from Jerusalem and even Judaea, Jews began to move north, founding villages and building synagogues in Galilee and the Golan. Palestine became a backwater which the Romans did not disturb as long as taxes were paid.",
+        "img-url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Flickr_-_Government_Press_Office_%28GPO%29_-_Masada_%281%29.jpg/1280px-Flickr_-_Government_Press_Office_%28GPO%29_-_Masada_%281%29.jpg",
+        "places":[
+            {
+                "age-name": "Pompei's Oriental Campaigns",
+                "time":" 66 - 62 BC",
+                "desc": "",
+                "img-url": "https://ancientworld.princeton.edu/wp-content/uploads/sites/4/2020/09/Peachin-Image.jpg",
+                "caption": ""
+            },
+        
+            {
+                "age-name": "Reign of Hadrian",
+                "time":" 117 - 138 AD",
+                "desc": "",
+                "img-url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Busts_of_Hadrianus_in_Venice_cropped.jpg/640px-Busts_of_Hadrianus_in_Venice_cropped.jpg",
+                "caption": ""
+            },
+        
+            {
+                "age-name": "Diocletian's Tetrarchy",
+                "time":" 293 AD",
+                "desc": "",
+                "img-url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Venice_%E2%80%93_The_Tetrarchs_03.jpg",
+                "caption": ""
+            }
+        ]
+    },
+
+    {
+        "age-name": "Byzantine Period",
+        "time":"324 - 640 CE",
+        "desc": "The shift from the Roman to the Byzantine Period does not imply a cultural change. The capital of the empire was simply transferred from Rome to the Greek city of Byzantium which was renamed Constantinople (CE 300). The political significance of this move was less important to Palestine than the decision of the emperor Constantine (CE 274-337) to legalize Christianity and to foster its development (CE 313). His consecration of the sites associated with Christ's birth, death-resurrection, and ascension by the erection of great churches awakened interest in the Holy Places. Pilgrims flocked to the Holy Land, stimulating development in all spheres; churches sprang up everywhere and monasteries made the desert a city. Jerusalem grew again to the size it had been under Herod the Great.\n Palestine, though rife with theological controversy, was troubled by serious violence only twice during these centuries, the Samaritan revolt in CE 529 and the Persian invasion in CE 614. Both were short-lived but proved extremely destructive.",
+        "img-url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/StNilusChurchMamshit.jpg/1280px-StNilusChurchMamshit.jpg",
+        "places":[
+            {
+                "age-name": "Reign of Constantine",
+                "time":" 324 - 337 CE",
+                "desc": "",
+                "img-url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Statua_di_Costantino_ai_musei_capitolini.jpg/1200px-Statua_di_Costantino_ai_musei_capitolini.jpg",
+                "caption": ""
+            },
+        
+            {
+                "age-name": "Reign of Justinian",
+                "time":"527 - 565 CE",
+                "desc": "",
+                "img-url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Mosaic_of_Justinianus_I_-_Basilica_San_Vitale_%28Ravenna%29.jpg",
+                "caption": ""
+            },
+        
+            {
+                "age-name": "Hegira: Beginning of Islam",
+                "time":" 622 BC",
+                "desc": "",
+                "img-url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Prayer_in_Cairo_1865.jpg/1200px-Prayer_in_Cairo_1865.jpg",
+                "caption": ""
+            }
+        ]
+    },
+
+    {
+        "age-name": "Early Arab Period",
+        "time":"CE 640 - 1099",
+        "desc": "Divided by internal intrigues and exhausted by the struggle against Persia, the Byzantine Empire could offer no resistance to the highly  motivated cavalry who swept out of the Arabian desert inflamed by the new faith preached by Muhammad (CE 570-632). For Palestine the end came at the battle of the Yarmuk on 20 August 636. Two years later, after the conquest of Persia, the second caliph (successor of the Prophet) Omar (CE 634-44) accepted the surrender of Jerusalem. Recognized as a holy city because sacred to the two religions of the Book (Judaism and Christianity) regarded as the predecessors of Islam, Jerusalem became a centre of Muslim pilgrimage. It was protected and embellished by successive dynasties—Umayyad (661-750), Abbasid (750-974), and Fatamid (975-1171)—until 1009 when the mad caliph Hakim unleashed a savage persecution of Christians and many churches were destroyed. Organized groups of pilgrims came regularly from Europe until the capture of Jerusalem by the Seljuk Turks in 1071. These refused to cooperate and the frustrated religious fervour of Europe expressed itself in overwhelming assent when Pope Urban II, in 1095, called for a crusade to liberate the Holy Places.",
+        "img-url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/%D7%94%D7%A8_%D7%94%D7%91%D7%99%D7%AA_%D7%9E%D7%93%D7%A8%D7%95%D7%9D_%D7%9E%D7%A2%D7%A8%D7%91.jpg/640px-%D7%94%D7%A8_%D7%94%D7%91%D7%99%D7%AA_%D7%9E%D7%93%D7%A8%D7%95%D7%9D_%D7%9E%D7%A2%D7%A8%D7%91.jpg",
+        "places":[
+            {
+                "age-name": "Ummayud Dynasty",
+                "time":" 661 - 751 CE",
+                "desc": "",
+                "img-url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/110409_046.jpg/640px-110409_046.jpg",
+                "caption": ""
+            },
+        
+            {
+                "age-name": "Abbasid Dynasty",
+                "time":" 750 - 1258 CE",
+                "desc": "",
+                "img-url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Decorated_niche%2C_750-825_CE%2C_Afrasiab%2C_Samarkand.jpg/220px-Decorated_niche%2C_750-825_CE%2C_Afrasiab%2C_Samarkand.jpg",
+                "caption": ""
+            },
+        
+        
+            {
+                "age-name": "Fatimid Dynasty",
+                "time":"973 - 1171 CE",
+                "desc": "",
+                "img-url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Great_Mosque_of_Cordoba%2C_interior%2C_8th_-_10th_centuries_%2838%29_%2829721130342%29.jpg/800px-Great_Mosque_of_Cordoba%2C_interior%2C_8th_-_10th_centuries_%2838%29_%2829721130342%29.jpg",
+                "caption": ""
+            }
+        ]
+    },
+
+    {
+        "age-name": "Crusader Period",
+        "time":"CE 1099 - 1291",
+        "desc": "The scale of the enterprise meant that, once set in motion, it could not be halted, even though the Fatimids had retaken Jerusalem at the beginning of 1099. The Crusaders occupied the Holy City on 15 July 1099. Their first act was to massacre all the Muslim inhabitants. From such unthinking fanaticism was born the inflexibility of Islam. The memory of the massacre forever stood in the way of a permanent modus vivendi. The first king, Baldwin I (1100-18), gave the new realm a solid territorial base. The feudal system which the Crusaders brought with them furnished an effective administration. Palestine was never so efficiently governed on the local level and full use was made of the alms which flowed from Europe. Castles, abbeys, and manor houses were surrounded by fertile fields. Decisively defeated by Saladin at the Horns of Hattin in 1187, the Crusaders recovered parts of their former territories through treaties in the first part of the C13, but the castles and the fortifications of Jerusalem had been torn down. In 1250 the Bahri Mamluks of Cairo toppled the Ayyubid dynasty of Saladin and began a series of campaigns which culminated in the capture of the Crusader stronghold, Acre (Akko), in 1291.",
+        "img-url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Belvoir_fortress.JPG/640px-Belvoir_fortress.JPG",
+        "places":[
+            {
+                "age-name": "First Crusade",
+                "time":"1096 - 1099 CE",
+                "desc": "",
+                "img-url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Richard-Coeur-de-Lion-on-his-way-to-Jerusalem.JPG/300px-Richard-Coeur-de-Lion-on-his-way-to-Jerusalem.JPG",
+                "caption": ""
+            },
+        
+            {
+                "age-name": "Ayyubid Dynasty",
+                "time":"1171 - 1250 CE",
+                "desc": "",
+                "img-url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Saladin_Soldan_d%27Egypte_%28BM_1879%2C1213.302%29.jpg/220px-Saladin_Soldan_d%27Egypte_%28BM_1879%2C1213.302%29.jpg",
+                "caption": ""
+            }
+        ]
+    },
+
+    {
+        "age-name": "Mamluk Period",
+        "time":"1250 - 1517",
+        "desc": "A continuous internal struggle for power in Egypt and the need to defend Syria against the Mongol hordes gave the Mamluks little leisure to occupy themselves with Palestine. Once again it became a backwater; the great currents of power ran elsewhere. Jerusalem became a political limbo to which out-of-favour emirs were banished. As a Holy City it continued to attract scholars and pilgrims. In order to serve the needs of Christian pilgrims the Franciscans returned to Jerusalem in 1335",
+        "img-url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Arcs_pool_IMG_5391.JPG/640px-Arcs_pool_IMG_5391.JPG",
+        "places":[
+            {
+                "age-name": "Mameluk Empire",
+                "time":"1250 - 1516 CE",
+                "desc": "",
+                "img-url": "https://live.staticflickr.com/5230/5678802410_dc46a5dfcf_b.jpg",
+                "caption": ""
+            }
+        ]
+    },
+
+    {
+        "age-name": "Ottoman Period",
+        "time":"1517 - 1918",
+        "desc": "The Ottoman Turks took Constantinople in 1453, and Egypt fell to them in 1517. The first two sultans were vigorously effective administrators. Suliman the Magnificent (1520-66) rebuilt the walls of Jerusalem. Then followed a series of incompetents whose minimal energy had to be concentrated on trying to keep in order the independent-minded Egyptian pashas. Palestine was left to fend for itself under the capricious authority of pashas whose only concern was to meet their tax quota and to have a little over for themselves. Lack of effective control promoted a sense of insecurity which expressed itself in apathy and a decline in population. The Jews were the one community to grow during this period. Refugees from persecution in Europe and Russia found fragile stability in Palestine where outbursts of anti-Semitism occured infrequently.",
+        "img-url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Fall-of-constantinople-22.jpg/578px-Fall-of-constantinople-22.jpg",
+        "places":[
+            {
+                "age-name": "Constantinople Falls: Ottoman Empire",
+                "time":"1453 CE",
+                "desc": "",
+                "img-url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Hagia_Sophia_2017.jpg/700px-Hagia_Sophia_2017.jpg",
+                "caption": ""
+            },
+        
+        
+            {
+                "age-name": "Solomon the Magnificent",
+                "time":"1520 - 1566 CE",
+                "desc": "",
+                "img-url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Jerusalem_Damaskustor_BW_1.jpg/640px-Jerusalem_Damaskustor_BW_1.jpg",
+                "caption": ""
+            },
+        
+        
+            {
+                "age-name": "World War 1",
+                "time":"1914 CE",
+                "desc": "",
+                "img-url": "https://cdn-cdaac.nitrocdn.com/tFOqLIaMYIaFjSGNUoYXbEDiJHtqbEtH/assets/static/optimized/rev-87b082e/wp-content/uploads/2018/06/world-war-1.png",
+                "caption": ""
+            }
+        ]
+    },
+
+    {
+        "age-name": "Modern Period",
+        "time":"1918 - ...",
+        "desc": "The Turks sided with Germany in the First World War, and the victors dismembered their empire, Britain being given a mandate to govern Palestine in the name of the League of Nations. Able administration gave the country a modern infrastructure which facilitated rapid development.  Increased Jewish immigration led to racial strife which grew in intensity to the point where the British could no longer control the situation. They turned the problem over to the United Nations which, in 1947, recommended that Palestine be partitioned between Arab and Jew. Jewish acceptance was nullified by a flat reaction on the part of the Arabs. War broke out when the British withdrew on 14 May 1948. An armistice was accepted on 18 July 1948 leaving Jordan in possession of the West Bank and the Old City of Jerusalem and the new state of Israel in control of the western part of Jerusalem and the rest of the country. Israel was victorious in the war which erupted in June 1967 and since then has occupied the whole area between the River Jordan and the Mediterranean Sea.",
+        "img-url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Palestinian_delegation_1929.jpg/640px-Palestinian_delegation_1929.jpg",
+        "places":[
+            {
+                "age-name": "World War 2",
+                "time":"1945 CE",
+                "desc": "",
+                "img-url": "https://upload.wikimedia.org/wikipedia/commons/3/33/RIAN_archive_61150_Great_Patriotic_War.jpg",
+                "caption": ""
+            }
+        ]
+    }
+    
+    
+
+   
+]
