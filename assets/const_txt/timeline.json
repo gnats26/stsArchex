@@ -18,7 +18,7 @@
             "time": " 10,000 - 8200 BC",
             "desc": "The Natufian culture was discovered by British archaeologist Dorothy Garrod during her excavations of Shuqba cave in the Judaean Hills, on the West Bank of the Jordan River",
             "img-url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/El-Wad_Homo25_in_Rockefeller_Museum.jpg/800px-El-Wad_Homo25_in_Rockefeller_Museum.jpg",
-            "caption":"Natufian Burial",
+            "caption":"Natufian\nBurial",
             "color":true
         },
 
@@ -35,7 +35,7 @@
             "time":" 8200 - 4000 BC",
             "desc": " included the introduction of farming, domestication of animals, and change from a hunter-gatherer lifestyle to one of settlement.",
             "img-url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Asikli_Hoyuk_sarah_c_murray_6176.jpg",
-            "caption": "Neolithic - Wikipedia"
+            "caption": "Neolithic"
         },
     
         {
@@ -133,7 +133,7 @@
                 "time":" 605 - 539 BC",
                 "desc": "The Neo-Babylonian Empire or Second Babylonian Empire, historically known as the Chaldean Empire, was the last polity ruled by monarchs native to Mesopotamia. Beginning with the coronation of Nabopolassar as the King of Babylon in 626 BC and being firmly established through the fall of the Neo-Assyrian Empire in 612 BC",
                 "img-url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Striding_lions_-_Processional_Way_of_Babylon_-_Pergamonmuseum_-_Berlin_-_Germany_2017.jpg/640px-Striding_lions_-_Processional_Way_of_Babylon_-_Pergamonmuseum_-_Berlin_-_Germany_2017.jpg",
-                "caption": "Lions of Babylon"
+                "caption": "Babylon"
             },
 
             {
@@ -141,7 +141,7 @@
                 "time":" 587 - 539 BC",
                 "desc": "After the Battle of Carchemish in 605 BCE, the Babylonian king Nebuchadnezzar II besieged Jerusalem, which resulted in tribute being paid by the Judean king Jehoiakim.[1] In the fourth year of Nebuchadnezzar II's reign, Jehoiakim refused to pay further tribute, which led to another siege of the city in Nebuchadnezzar II's seventh year (598/597 BCE) that culminated in the death of Jehoiakim and the exile to Babylonia of his successor Jeconiah, his court, and many others; Jeconiah's successor Zedekiah and others were exiled when Nebuchadnezzar II destroyed Jerusalem in his 18th year (587 BCE), and a later deportation occurred in Nebuchadnezzar II's 23rd year (582 BCE). However, the dates, numbers of deportations, and numbers of deportees vary in the several biblical accounts",
                 "img-url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Clay_tablet._The_Akkadian_cuneiform_inscription_lists_certain_rations_and_mentions_the_name_of_Jeconiah_%28Jehoiachin%29%2C_King_of_Judah_and_the_Babylonian_captivity._From_Babylon%2C_Iraq._C._580_BCE._Vorderasiatisches_Museum%2C_Berlin.jpg/891px-thumbnail.jpg",
-                "caption": "Akkadian cuneiform ",
+                "caption": "Akkadian\ncuneiform ",
                 "color":true
             }
         ]
@@ -215,7 +215,7 @@
                 "time":"198 - 142 BC",
                 "desc": "The Seleucid Empire was a Greek state in West Asia that existed during the Hellenistic period from 312 BC to 63 BC. The Seleucid Empire was founded by the Macedonian general Seleucus I Nicator, following the division of the Macedonian Empire originally founded by Alexander the Great.",
                 "img-url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/SeleucosCoin.jpg",
-                "caption": "Coin:\nSeleucus 1 Nicanor",
+                "caption": "Coin:\nSeleucus 1\nNicanor",
                 "color":true
             },
 
