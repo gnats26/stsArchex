@@ -10,7 +10,7 @@
             "time":" 750,000 - 16,000 BC",
             "desc": " is a period in human prehistory that is distinguished by the original development of stone tools, and which represents almost the entire period of human prehistoric technology",
             "img-url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Lascaux_painting.jpg/640px-Lascaux_painting.jpg",
-            "caption": "Lascaux - Wikipedia"
+            "caption": "Lascaux"
         },
     
         {
@@ -27,7 +27,7 @@
             "time": " 16,000 - 8000 BC",
             "desc": " It refers to the final period of hunter-gatherer cultures in Europe and Western Asia, between the end of the Last Glacial Maximum and the Neolithic Revolution. In Europe it spans roughly 15,000 to 5,000 BP; in Southwest Asia (the Epipalaeolithic Near East) roughly 20,000 to 10,000 BP. The term is less used of areas farther east, and not at all beyond Eurasia and North Africa",
             "img-url":"https://upload.wikimedia.org/wikipedia/commons/d/d6/Hunter_gatherer%27s_camp_at_Irish_National_Heritage_Park_-_geograph.org.uk_-_1252699.jpg",
-            "caption":"Mesoloithic - Wikipedia"
+            "caption":"Mesoloithic"
         },
     
         {
@@ -70,7 +70,7 @@
                 "time":" ... - 3200 BC",
                 "desc": "Canaan had significant geopolitical importance in the Late Bronze Age Amarna Period (14th century BC) as the area where the spheres of interest of the Egyptian, Hittite, Mitanni and Assyrian Empires converged or overlapped. Much of present-day knowledge about Canaan stems from archaeological excavation in this area at sites such as Tel Hazor, Tel Megiddo, En Esur, and Gezer. ",
                 "img-url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/BM_29785_EA_9_Reverse_v2.jpg", 
-                "caption": "Amarna Tablet EA 9",
+                "caption": "Amarna Tablet",
                 "color":true
             }
         ]
@@ -95,7 +95,7 @@
                 "time":" 1200 - 1000 BC",
                 "desc": "The biblical story of the Israelite conquest of Canaan under their leader Joshua mentions a certain \"king of Gezer\" (Joshua 10:33) who had gone to help his countrymen in Lachish, where he met his death. ",
                 "img-url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Gezer-Stone-steles.jpg", 
-                "caption": "Gezer: massebot altar",
+                "caption": "Gezer:\nmassebot altar",
                 "color":true
             },
 
@@ -104,7 +104,7 @@
                 "time":" 1010 - 931 BC",
                 "desc": "David became king of a reunited Kingdom of Israel. However, in about 930 BCE the united kingdom split, with ten of the twelve Tribes of Israel rejecting Solomon's son Rehoboam as their king. The tribes of Judah and Benjamin remained loyal to Rehoboam, and re-formed the Kingdom of Judah, while the other entity continued to be called the Kingdom of Israel, or just Israel. ",
                 "img-url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/JRSLM_300116_Tel_Dan_Stele_01.jpg/1024px-JRSLM_300116_Tel_Dan_Stele_01.jpg", 
-                "caption": "The Tel Dan Stele.",
+                "caption": "Tel Dan Stele.",
                 "color":true
             },
             
@@ -114,7 +114,7 @@
                 "time":" 883 - 612 BC",
                 "desc": "The Neo-Assyrian Empire left a legacy of great cultural significance. The political structures established by the Neo-Assyrian Empire became the model for the later empires that succeeded it and the ideology of universal rule promulgated by the Neo-Assyrian kings inspired, through the concept of translatio imperii, similar ideas of rights to world domination in later empires as late as the early modern period. The Neo-Assyrian Empire became an important part of later folklore and literary traditions in northern Mesopotamia through the subsequent post-imperial period and beyond.",
                 "img-url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Exhibition_I_am_Ashurbanipal_king_of_the_world%2C_king_of_Assyria%2C_British_Museum_%2831033563287%29.jpg/800px-Exhibition_I_am_Ashurbanipal_king_of_the_world%2C_king_of_Assyria%2C_British_Museum_%2831033563287%29.jpg",
-                "caption": "Ashurbanipal - Assyria"
+                "caption": "Ashurbanipal:\nAssyria"
             },
 
             {
@@ -122,7 +122,7 @@
                 "time":" 722 BC",
                 "desc": "Towards the end of the 8th century BCE, possibly in 722 BCE, Samaria was captured by the Neo-Assyrian Empire and became an administrative center under Assyrian, Babylonian, and Persian rule. During the early Roman period, the city was expanded and fortified by Herod the Great, who renamed it “Sebastia” in honor of emperor Augustus",
                 "img-url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Achav_palace_2.jpg/800px-Achav_palace_2.jpg?20170404124111",
-                "caption": "Achav Palace",
+                "caption": "Achav\nPalace",
                 "color":true
             },
 
@@ -141,7 +141,7 @@
                 "time":" 587 - 539 BC",
                 "desc": "After the Battle of Carchemish in 605 BCE, the Babylonian king Nebuchadnezzar II besieged Jerusalem, which resulted in tribute being paid by the Judean king Jehoiakim.[1] In the fourth year of Nebuchadnezzar II's reign, Jehoiakim refused to pay further tribute, which led to another siege of the city in Nebuchadnezzar II's seventh year (598/597 BCE) that culminated in the death of Jehoiakim and the exile to Babylonia of his successor Jeconiah, his court, and many others; Jeconiah's successor Zedekiah and others were exiled when Nebuchadnezzar II destroyed Jerusalem in his 18th year (587 BCE), and a later deportation occurred in Nebuchadnezzar II's 23rd year (582 BCE). However, the dates, numbers of deportations, and numbers of deportees vary in the several biblical accounts",
                 "img-url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Clay_tablet._The_Akkadian_cuneiform_inscription_lists_certain_rations_and_mentions_the_name_of_Jeconiah_%28Jehoiachin%29%2C_King_of_Judah_and_the_Babylonian_captivity._From_Babylon%2C_Iraq._C._580_BCE._Vorderasiatisches_Museum%2C_Berlin.jpg/891px-thumbnail.jpg",
-                "caption": "The Akkadian cuneiform inscription",
+                "caption": "Akkadian cuneiform ",
                 "color":true
             }
         ]
@@ -166,7 +166,7 @@
                 "time":" 539 - 515 BC",
                 "desc": "The narrative is what we see in Ezra and Nehemiah",
                 "img-url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/109.Ezra_Reads_the_Law_to_the_People.jpg/608px-109.Ezra_Reads_the_Law_to_the_People.jpg",
-                "caption": "Ezra reads the Law",
+                "caption": "Ezra reads:\nthe Law",
                 "color":true
             }
         ]
@@ -182,7 +182,7 @@
                 "time":" 336 - 323 BC",
                 "desc": "Alexander III of Macedon (Ancient Greek: Ἀλέξανδρος, romanized: Alexandros; 20/21 July 356 BC - 10/11 June 323 BC), commonly known as Alexander the Great, was a king of the ancient Greek kingdom of Macedon. He succeeded his father Philip II to the throne in 336 BC at the age of 20, and spent most of his ruling years conducting a lengthy military campaign throughout Western Asia and Egypt. By the age of 30, he had created one of the largest empires in history, stretching from Greece to northwestern India. He was undefeated in battle and is widely considered to be one of history's greatest and most successful military commanders.",
                 "img-url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Alexander_the_Great_mosaic_%28cropped%29.jpg",
-                "caption": "Chalcolithic"
+                "caption": "Alexander"
             },
 
             {
@@ -190,7 +190,7 @@
                 "time":" 323 - 281 BC",
                 "desc": "The most notable Diadochi include Ptolemy, Antigonus, Cassander, and Seleucus as the last remaining at the end of the Wars of the Successors, ruling in Egypt, Asia-Minor, Macedon and Persia respectively, all forging dynasties lasting several centuries.",
                 "img-url": "https://m.media-amazon.com/images/I/61S8cAqDk6L.jpg",
-                "caption": ""
+                "caption": "Succession\nWars"
             },
 
             {
@@ -198,7 +198,7 @@
                 "time":"285 - 198 BC",
                 "desc": "The Ptolemaic Kingdom was an Ancient Greek state based in Egypt during the Hellenistic Period, by Ptolemy I Soter, a companion of Alexander the Great",
                 "img-url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Ptolemy_I_Soter_Louvre_Ma849.jpg/400px-Ptolemy_I_Soter_Louvre_Ma849.jpg",
-                "caption": "Ptolemy I Soter - Hellenistic Art",
+                "caption": "Ptolemy I Soter\nHellenistic Art",
                 "color":true
             },
         
@@ -215,7 +215,7 @@
                 "time":"198 - 142 BC",
                 "desc": "The Seleucid Empire was a Greek state in West Asia that existed during the Hellenistic period from 312 BC to 63 BC. The Seleucid Empire was founded by the Macedonian general Seleucus I Nicator, following the division of the Macedonian Empire originally founded by Alexander the Great.",
                 "img-url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/SeleucosCoin.jpg",
-                "caption": "Coin of Seleucus 1 Nicanor",
+                "caption": "Coin:\nSeleucus 1 Nicanor",
                 "color":true
             },
 
@@ -287,7 +287,7 @@
                 "time":" 132 - 135 BC",
                 "desc": "The Bar Kokhba revolt, also known as the Third Jewish Revolt or the 'Jewish Expedition,' was a rebellion by the Jews of the Roman province of Judea, led by Simon bar Kokhba, against the Roman Empire. The last of the three Jewish-Roman Wars, it was fought c.132-136 CE",
                 "img-url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Arch_of_Titus_Menorah.png/640px-Arch_of_Titus_Menorah.png",
-                "caption": "Jewish Roman Wars",
+                "caption": "Jewish Roman\nWars",
                 "color":true
             },
         
@@ -337,7 +337,7 @@
                 "time":"614 CE",
                 "desc": "The Sasanian conquest of Jerusalem occurred after a brief siege of the city by the Sasanian military in 614 CE, and was a significant event in the Byzantine-Sasanian War of 602-628 ",
                 "img-url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Ancient_Sasanid_Cataphract_Uther_Oxford_2003_06_2%281%29.jpg",
-                "caption": "Sassanian Cataphract: \nreconstructed",
+                "caption": "Sassanian Cataphract:\nreconstructed",
                 "color":true
             },
         
@@ -346,7 +346,7 @@
                 "time":" 622 BC",
                 "desc": "The Hijrah or Hijra was the journey of the Islamic prophet Muhammad and his followers from Mecca to Medina. The year in which the Hijrah took place is also identified as the epoch of the Lunar Hijri and Solar Hijri calendars; its date equates to 16 July 622 in the Julian calendar.",
                 "img-url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Prayer_in_Cairo_1865.jpg/1200px-Prayer_in_Cairo_1865.jpg",
-                "caption": "parayer in Caira"
+                "caption": "prayer in Cairo"
             },
 
             {
@@ -354,7 +354,7 @@
                 "time":"628 CE",
                 "desc": "The Byzantine-Sasanian War of 602-628 was the final and most devastating of the series of wars fought between the Byzantine / Roman Empire and the Sasanian Empire of Iran.",
                 "img-url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Sasanides_in_Byzantine_palace.jpg/576px-Sasanides_in_Byzantine_palace.jpg",
-                "caption": "Sassanian delegation\n in Byzantium",
+                "caption": "Sassanian delegation\nin Byzantium",
                 "color":true
             },
 
@@ -416,7 +416,7 @@
                 "time":"973 - 1171 CE",
                 "desc": "The Fatimids' claimed pedigree of descent from Fatima and Ali was central to their legitimacy as the legitimate imams in an unbroken, divinely ordained line from Ali onwards.",
                 "img-url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Great_Mosque_of_Cordoba%2C_interior%2C_8th_-_10th_centuries_%2838%29_%2829721130342%29.jpg/800px-Great_Mosque_of_Cordoba%2C_interior%2C_8th_-_10th_centuries_%2838%29_%2829721130342%29.jpg",
-                "caption": "Great Mosque Cordoba"
+                "caption": "Great Mosque:\nCordoba"
             }
         ]
     },
@@ -432,7 +432,7 @@
                 "time":"1096 - 1099 CE",
                 "desc": "The First Crusade was the first of a series of religious wars, or Crusades, initiated, supported and at times directed by the Latin Church in the medieval period. The objective was the recovery of the Holy Land from Islamic rule",
                 "img-url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Richard-Coeur-de-Lion-on-his-way-to-Jerusalem.JPG/300px-Richard-Coeur-de-Lion-on-his-way-to-Jerusalem.JPG",
-                "caption": "Richard Lion Hear: III Crusade"
+                "caption": "Richard Lion Heart:\nIII Crusade"
             },
 
             {
@@ -449,7 +449,7 @@
                 "time":"1187",
                 "desc": "Saladin had defeated the kingdom's army and conquered several cities. Balian was charged with organizing a defense. The city was full of refugees but had few soldiers. Despite this fact the defenders managed to repulse several attempts by Saladin's army to take the city by storm. Balian bargained with Saladin to buy safe passage for many, and the city was peacefully surrendered with limited bloodshed. Though Jerusalem fell, it was not the end of the Kingdom of Jerusalem, as the capital shifted first to Tyre and later to Acre after the Third Crusade. In Jerusalem, Saladin restored Muslim holy sites and generally showed tolerance towards Christians; he allowed Orthodox and Eastern Christian pilgrims to visit the holy sites freely ",
                 "img-url": "https://upload.wikimedia.org/wikipedia/commons/8/83/ChristiansBeforeSaladin.jpg",
-                "caption": "Saladin in Jerusalem",
+                "caption": "Saladin:Jerusalem",
                 "color":true
             },
         
@@ -474,7 +474,7 @@
                 "time":"1250 - 1516 CE",
                 "desc": "The Mamluk Sultanate, also known as Mamluk Egypt or the Mamluk Empire, was a state that ruled Egypt, the Levant and the Hejaz (western Arabia) from the mid-13th to early 16th centuries. It was ruled by a military caste of mamluks (manumitted slave soldiers) headed by the sultan.",
                 "img-url": "https://live.staticflickr.com/5230/5678802410_dc46a5dfcf_b.jpg",
-                "caption": "Mamluk arch: Jerusalem"
+                "caption": "Mamluk arch:\nJerusalem"
             },
 
             {
