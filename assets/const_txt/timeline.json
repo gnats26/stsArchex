@@ -8,15 +8,24 @@
             {
             "age-name": "Paleolithic Age",
             "time":" 750,000 - 16,000 BC",
-            "desc": "Neoltithic AGs",
+            "desc": " is a period in human prehistory that is distinguished by the original development of stone tools, and which represents almost the entire period of human prehistoric technology",
             "img-url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Lascaux_painting.jpg/640px-Lascaux_painting.jpg",
             "caption": "Lascaux - Wikipedia"
         },
     
         {
+            "age-name": "Rise of Natufian Culture",
+            "time": " 10,000 - 8200 BC",
+            "desc": "The Natufian culture was discovered by British archaeologist Dorothy Garrod during her excavations of Shuqba cave in the Judaean Hills, on the West Bank of the Jordan River",
+            "img-url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/El-Wad_Homo25_in_Rockefeller_Museum.jpg/800px-El-Wad_Homo25_in_Rockefeller_Museum.jpg",
+            "caption":"Natufian Burial",
+            "color":true
+        },
+
+        {
             "age-name": "Mesolithic Age",
             "time": " 16,000 - 8000 BC",
-            "desc": "dsf",
+            "desc": " It refers to the final period of hunter-gatherer cultures in Europe and Western Asia, between the end of the Last Glacial Maximum and the Neolithic Revolution. In Europe it spans roughly 15,000 to 5,000 BP; in Southwest Asia (the Epipalaeolithic Near East) roughly 20,000 to 10,000 BP. The term is less used of areas farther east, and not at all beyond Eurasia and North Africa",
             "img-url":"https://upload.wikimedia.org/wikipedia/commons/d/d6/Hunter_gatherer%27s_camp_at_Irish_National_Heritage_Park_-_geograph.org.uk_-_1252699.jpg",
             "caption":"Mesoloithic - Wikipedia"
         },
@@ -24,7 +33,7 @@
         {
             "age-name": "Neolithic Age",
             "time":" 8200 - 4000 BC",
-            "desc": "Neolithic Age",
+            "desc": " included the introduction of farming, domestication of animals, and change from a hunter-gatherer lifestyle to one of settlement.",
             "img-url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Asikli_Hoyuk_sarah_c_murray_6176.jpg",
             "caption": "Neolithic - Wikipedia"
         },
@@ -32,10 +41,13 @@
         {
             "age-name": "Chalcolithic Age",
             "time":" 4000 - 3200 BC",
-            "desc": "Neolithic Age",
+            "desc": "is an archaeological period characterized by regular human manipulation of copper, but prior to the discovery of bronze alloys. Modern researchers consider the period as a subset of the broader Neolithic, but earlier scholars defined it as a transitional period between the Neolithic and the Bronze Age. It is also considered the first phase, of three, in the Metal Ages.",
             "img-url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Los_Millares_recreacion_cuadro.jpg/220px-Los_Millares_recreacion_cuadro.jpg", 
             "caption": "Chalcolithic"
         }
+
+        
+        
         ]
         
     },
@@ -49,9 +61,17 @@
             {
                 "age-name": "Bronze Age",
                 "time":" 3200 - 1200 BC",
-                "desc": "Bronze Age",
+                "desc": "An ancient civilization is deemed to be part of the Bronze Age because it either produced bronze by smelting its own copper and alloying it with tin, arsenic, or other metals, or traded other items for bronze from production areas elsewhere. Bronze is harder and more durable than the other metals available at the time, allowing Bronze Age civilizations to gain a technological advantage.",
                 "img-url": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/qglugdo1ppgikr5wrowb.jpg",
-                "caption": "Chalcolithic"
+                "caption": "Bronze Age"
+            },
+            {
+                "age-name": "Canaannite Era",
+                "time":" ... - 3200 BC",
+                "desc": "Canaan had significant geopolitical importance in the Late Bronze Age Amarna Period (14th century BC) as the area where the spheres of interest of the Egyptian, Hittite, Mitanni and Assyrian Empires converged or overlapped. Much of present-day knowledge about Canaan stems from archaeological excavation in this area at sites such as Tel Hazor, Tel Megiddo, En Esur, and Gezer. ",
+                "img-url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/BM_29785_EA_9_Reverse_v2.jpg", 
+                "caption": "Amarna Tablet EA 9",
+                "color":true
             }
         ]
     },
@@ -65,25 +85,64 @@
             {
                 "age-name": "Iron Age",
                 "time":" 1200 - 587 BC",
-                "desc": "Iron Age",
+                "desc": "The \"Iron Age\" begins locally when the production of iron or steel has advanced to the point where iron tools and weapons replace their bronze equivalents in common use. In the Ancient Near East, this transition took place in the wake of the Bronze Age collapse, in the 12th century BC",
                 "img-url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Antenna_sword.jpg/220px-Antenna_sword.jpg",
-                "caption": "Chalcolithic"
+                "caption": "Iron Age"
             },
-        
+
+            {
+                "age-name": "Age of Judges",
+                "time":" 1200 - 1000 BC",
+                "desc": "The biblical story of the Israelite conquest of Canaan under their leader Joshua mentions a certain \"king of Gezer\" (Joshua 10:33) who had gone to help his countrymen in Lachish, where he met his death. ",
+                "img-url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Gezer-Stone-steles.jpg", 
+                "caption": "Gezer: massebot altar",
+                "color":true
+            },
+
+            {
+                "age-name": "David & Solomon",
+                "time":" 1010 - 931 BC",
+                "desc": "David became king of a reunited Kingdom of Israel. However, in about 930 BCE the united kingdom split, with ten of the twelve Tribes of Israel rejecting Solomon's son Rehoboam as their king. The tribes of Judah and Benjamin remained loyal to Rehoboam, and re-formed the Kingdom of Judah, while the other entity continued to be called the Kingdom of Israel, or just Israel. ",
+                "img-url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/JRSLM_300116_Tel_Dan_Stele_01.jpg/1024px-JRSLM_300116_Tel_Dan_Stele_01.jpg", 
+                "caption": "The Tel Dan Stele.",
+                "color":true
+            },
+            
+
             {
                 "age-name": "Neo Assyrian Empire",
                 "time":" 883 - 612 BC",
-                "desc": "Neo Assyrian Empire",
+                "desc": "The Neo-Assyrian Empire left a legacy of great cultural significance. The political structures established by the Neo-Assyrian Empire became the model for the later empires that succeeded it and the ideology of universal rule promulgated by the Neo-Assyrian kings inspired, through the concept of translatio imperii, similar ideas of rights to world domination in later empires as late as the early modern period. The Neo-Assyrian Empire became an important part of later folklore and literary traditions in northern Mesopotamia through the subsequent post-imperial period and beyond.",
                 "img-url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Exhibition_I_am_Ashurbanipal_king_of_the_world%2C_king_of_Assyria%2C_British_Museum_%2831033563287%29.jpg/800px-Exhibition_I_am_Ashurbanipal_king_of_the_world%2C_king_of_Assyria%2C_British_Museum_%2831033563287%29.jpg",
-                "caption": "Chalcolithic"
+                "caption": "Ashurbanipal - Assyria"
             },
-        
+
+            {
+                "age-name": "Fall of Samaria",
+                "time":" 722 BC",
+                "desc": "Towards the end of the 8th century BCE, possibly in 722 BCE, Samaria was captured by the Neo-Assyrian Empire and became an administrative center under Assyrian, Babylonian, and Persian rule. During the early Roman period, the city was expanded and fortified by Herod the Great, who renamed it “Sebastia” in honor of emperor Augustus",
+                "img-url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Achav_palace_2.jpg/800px-Achav_palace_2.jpg?20170404124111",
+                "caption": "Achav Palace",
+                "color":true
+            },
+
+            
+
             {
                 "age-name": "Neo Babylonian Empire",
                 "time":" 605 - 539 BC",
-                "desc": "Neo Babyloinian EMpire",
-                "img-url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/2018_Ashurbanipal_-_Tile.jpg/220px-2018_Ashurbanipal_-_Tile.jpg",
-                "caption": "Chalcolithic"
+                "desc": "The Neo-Babylonian Empire or Second Babylonian Empire, historically known as the Chaldean Empire, was the last polity ruled by monarchs native to Mesopotamia. Beginning with the coronation of Nabopolassar as the King of Babylon in 626 BC and being firmly established through the fall of the Neo-Assyrian Empire in 612 BC",
+                "img-url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Striding_lions_-_Processional_Way_of_Babylon_-_Pergamonmuseum_-_Berlin_-_Germany_2017.jpg/640px-Striding_lions_-_Processional_Way_of_Babylon_-_Pergamonmuseum_-_Berlin_-_Germany_2017.jpg",
+                "caption": "Lions of Babylon"
+            },
+
+            {
+                "age-name": "Babylonian Captivity - Exile",
+                "time":" 587 - 539 BC",
+                "desc": "After the Battle of Carchemish in 605 BCE, the Babylonian king Nebuchadnezzar II besieged Jerusalem, which resulted in tribute being paid by the Judean king Jehoiakim.[1] In the fourth year of Nebuchadnezzar II's reign, Jehoiakim refused to pay further tribute, which led to another siege of the city in Nebuchadnezzar II's seventh year (598/597 BCE) that culminated in the death of Jehoiakim and the exile to Babylonia of his successor Jeconiah, his court, and many others; Jeconiah's successor Zedekiah and others were exiled when Nebuchadnezzar II destroyed Jerusalem in his 18th year (587 BCE), and a later deportation occurred in Nebuchadnezzar II's 23rd year (582 BCE). However, the dates, numbers of deportations, and numbers of deportees vary in the several biblical accounts",
+                "img-url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Clay_tablet._The_Akkadian_cuneiform_inscription_lists_certain_rations_and_mentions_the_name_of_Jeconiah_%28Jehoiachin%29%2C_King_of_Judah_and_the_Babylonian_captivity._From_Babylon%2C_Iraq._C._580_BCE._Vorderasiatisches_Museum%2C_Berlin.jpg/891px-thumbnail.jpg",
+                "caption": "The Akkadian cuneiform inscription",
+                "color":true
             }
         ]
     },
@@ -97,9 +156,18 @@
             {
                 "age-name": "Persian Empire",
                 "time":" 539 - 333 BC",
-                "desc": "Persians Rule",
-                "img-url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Darius_I_%28The_Great%29.jpg",
-                "caption": "Chalcolithic"
+                "desc": "The Achaemenid Empire or Achaemenian Empire was the ancient Iranian empire founded by Cyrus the Great in 550 BC, known also as the First Persian Empire. Based in Western Asia, it was the largest empire the world had ever seen at its time, spanning a total of 5.5 million square",
+                "img-url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Standard_of_Cyrus_the_Great.svg/1024px-Standard_of_Cyrus_the_Great.svg.png",
+                "caption": "Flag of Persia"
+            },
+
+            {
+                "age-name": "Second Temple",
+                "time":" 539 - 515 BC",
+                "desc": "The narrative is what we see in Ezra and Nehemiah",
+                "img-url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/109.Ezra_Reads_the_Law_to_the_People.jpg/608px-109.Ezra_Reads_the_Law_to_the_People.jpg",
+                "caption": "Ezra reads the Law",
+                "color":true
             }
         ]
     },
@@ -107,32 +175,69 @@
         "age-name": "Hellenistic Period",
         "time":"332 - 63 BC",
         "desc": "Alexander the Great brought the Persian Empire to an end in 331 BC, having campaigned in Palestine the previous year. After his death in 323 BC his generals carved up his short-lived empire: Ptolemy acquired Egypt and Palestine while Syria and Babylon fell to the lot of Seleucus. Palestine became the battleground of these two dynasties, but the Ptolemies held it until 200 BC when it passed into the hands of the Seleucids. /n Since the Exile the High Priest had been obliged to assume many of the functions previously discharged by the king. In order to guarantee their dominance the Seleucids had to control this office. Their nominees displaced the traditional Sadokite dynasty, but the extent of foreign influence,  particularly in so far as it touched religion, eventually sparked off a revolt led by the three Maccabaean brothers in 167 BC. What began as a struggle for religious freedom soon became a successful fight for political independence. The bloodline of the Maccabees evolved into the Hasmonean dynasty which extended Jewish dominance to the whole of Palestine, the Golan and the east bank of the Jordan, almost the extent of the empire of David and Solomon.",
-        "img-url":"https://upload.wikimedia.org/wikipedia/commons/9/93/Stattler-Machabeusze.jpg",
+        "img-url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Map_of_Greece%2C_Archipelago_and_part_of_Anadoli%3B_Louis_Stanislas_d%27Arcy_Delarochette_1791.jpg/640px-Map_of_Greece%2C_Archipelago_and_part_of_Anadoli%3B_Louis_Stanislas_d%27Arcy_Delarochette_1791.jpg",
         "places":[
             {
                 "age-name": "Rule of Alexander the Great",
                 "time":" 336 - 323 BC",
-                "desc": "Alexander rules and rocks",
+                "desc": "Alexander III of Macedon (Ancient Greek: Ἀλέξανδρος, romanized: Alexandros; 20/21 July 356 BC - 10/11 June 323 BC), commonly known as Alexander the Great, was a king of the ancient Greek kingdom of Macedon. He succeeded his father Philip II to the throne in 336 BC at the age of 20, and spent most of his ruling years conducting a lengthy military campaign throughout Western Asia and Egypt. By the age of 30, he had created one of the largest empires in history, stretching from Greece to northwestern India. He was undefeated in battle and is widely considered to be one of history's greatest and most successful military commanders.",
                 "img-url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Alexander_the_Great_mosaic_%28cropped%29.jpg",
                 "caption": "Chalcolithic"
             },
-        
-        
+
             {
                 "age-name": "Wars for Alexander's Successor",
                 "time":" 323 - 281 BC",
-                "desc": "successors figh",
+                "desc": "The most notable Diadochi include Ptolemy, Antigonus, Cassander, and Seleucus as the last remaining at the end of the Wars of the Successors, ruling in Egypt, Asia-Minor, Macedon and Persia respectively, all forging dynasties lasting several centuries.",
                 "img-url": "https://m.media-amazon.com/images/I/61S8cAqDk6L.jpg",
                 "caption": ""
+            },
+
+            {
+                "age-name": "Ptolemaic Domination",
+                "time":"285 - 198 BC",
+                "desc": "The Ptolemaic Kingdom was an Ancient Greek state based in Egypt during the Hellenistic Period, by Ptolemy I Soter, a companion of Alexander the Great",
+                "img-url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Ptolemy_I_Soter_Louvre_Ma849.jpg/400px-Ptolemy_I_Soter_Louvre_Ma849.jpg",
+                "caption": "Ptolemy I Soter - Hellenistic Art",
+                "color":true
             },
         
             {
                 "age-name": "Hellenistic Reign",
                 "time":" 280 - 63 BC",
-                "desc": " Maccabees time",
+                "desc": "In classical antiquity, the Hellenistic period covers the time in Mediterranean history after Classical Greece, between the death of Alexander the Great in 323 BC to the death of Cleopatra VII (30 BC) followed by the emergence of the Roman Empire, as signified by the Battle of Actium in 31 BC and the conquest of Ptolemaic Egypt the following year",
                 "img-url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Laocoon_Pio-Clementino_Inv1059-1064-1067.jpg/300px-Laocoon_Pio-Clementino_Inv1059-1064-1067.jpg",
-                "caption": ""
+                "caption": "Hellenistic Art"
+            },
+
+            {
+                "age-name": "Seleucid Domination",
+                "time":"198 - 142 BC",
+                "desc": "The Seleucid Empire was a Greek state in West Asia that existed during the Hellenistic period from 312 BC to 63 BC. The Seleucid Empire was founded by the Macedonian general Seleucus I Nicator, following the division of the Macedonian Empire originally founded by Alexander the Great.",
+                "img-url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/SeleucosCoin.jpg",
+                "caption": "Coin of Seleucus 1 Nicanor",
+                "color":true
+            },
+
+            {
+                "age-name": "Maccabean Revolt",
+                "time":"167 - 142 BC",
+                "desc": "The Seleucid Empire was a Greek state in West Asia that existed during the Hellenistic period from 312 BC to 63 BC. The Seleucid Empire was founded by the Macedonian general Seleucus I Nicator, following the division of the Macedonian Empire originally founded by Alexander the Great.",
+                "img-url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Stattler-Machabeusze.jpg",
+                "caption": "The Maccabees",
+                "color":true
+            },
+
+            {
+                "age-name": "Hasmonean Kingdom",
+                "time":"142 - 63 BC",
+                "desc": "The Hasmonean dynasty was a ruling dynasty of Judea and surrounding regions during classical antiquity, from c.140 BCE to 37 BCE",
+                "img-url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Hyrcanus_Yohanan.png",
+                "caption": "John Hyrcanus",
+                "color":true
             }
+
+
         ]
 
     },
@@ -146,25 +251,52 @@
             {
                 "age-name": "Pompei's Oriental Campaigns",
                 "time":" 66 - 62 BC",
-                "desc": "",
+                "desc": "The siege of Jerusalem (63 BC) occurred during Pompey the Great's campaigns in the East, shortly after his successful conclusion of the Third Mithridatic War",
                 "img-url": "https://ancientworld.princeton.edu/wp-content/uploads/sites/4/2020/09/Peachin-Image.jpg",
-                "caption": ""
+                "caption": "Ancient Rome"
+            },
+
+            {
+                "age-name": "Herod the Great",
+                "time":" 37 BC",
+                "desc": "Herod's rule marked a new beginning in the history of Judea. Judea had been ruled autonomously by the Hasmonean kings from 140 until 63 BCE. The Hasmonean kings retained their titles, but became clients of Rome after the conquest by Pompey in 63 BCE. Herod overthrew the Hasmonean Antigonus in a three-year-long war between 37 and 34 BCE, ruled under Roman overlordship until his death ca. 4 BCE, and officially passed on the throne to his sons, thus establishing his own, so-called Herodian dynasty.",
+                "img-url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Herodium_from_above_2.jpg/640px-Herodium_from_above_2.jpg",
+                "caption": "Herodion",
+                "color":true
+            },
+
+            {
+                "age-name": "Frist Judean Revolt",
+                "time":" 66 - 73 BC",
+                "desc": "sometimes called the Great Jewish Revolt, or The Jewish War, was the first of three major rebellions by the Jews against the Roman Empire, fought in Roman-controlled Judea, resulting in the destruction of Jewish towns, the displacement of its people and the appropriation of land for Roman military use, as well as the destruction of the Jewish Temple and polity.",
+                "img-url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Rom%2C_Titusbogen%2C_Triumphzug.jpg/640px-Rom%2C_Titusbogen%2C_Triumphzug.jpg",
+                "caption": "Arch of Titus",
+                "color":true
             },
         
             {
                 "age-name": "Reign of Hadrian",
                 "time":" 117 - 138 AD",
-                "desc": "",
+                "desc": "In Roman Judaea, Hadrian visited Jerusalem, which was still in ruins after the First Roman-Jewish War of 66-73. He may have planned to rebuild Jerusalem as a Roman colony as Vespasian had done with Caesarea Maritima with various honorific and fiscal privileges. The non-Roman population would have no obligation to participate in Roman religious rituals but were expected to support the Roman imperial order; this is attested in Caesarea, where some Jews served in the Roman army during both the 66 and 132 rebellions.",
                 "img-url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Busts_of_Hadrianus_in_Venice_cropped.jpg/640px-Busts_of_Hadrianus_in_Venice_cropped.jpg",
-                "caption": ""
+                "caption": "Hadrian"
+            },
+
+            {
+                "age-name": "Second Judean Revolt",
+                "time":" 132 - 135 BC",
+                "desc": "The Bar Kokhba revolt, also known as the Third Jewish Revolt or the 'Jewish Expedition,' was a rebellion by the Jews of the Roman province of Judea, led by Simon bar Kokhba, against the Roman Empire. The last of the three Jewish-Roman Wars, it was fought c.132-136 CE",
+                "img-url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Arch_of_Titus_Menorah.png/640px-Arch_of_Titus_Menorah.png",
+                "caption": "Jewish Roman Wars",
+                "color":true
             },
         
             {
                 "age-name": "Diocletian's Tetrarchy",
                 "time":" 293 AD",
-                "desc": "",
+                "desc": "The Tetrarchy was the system instituted by Roman emperor Diocletian in 293 AD to govern the ancient Roman Empire by dividing it between two emperors, the augusti, and their junior colleagues and designated successors, the caesares. This marked the end of the Crisis of the Third Century.",
                 "img-url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Venice_%E2%80%93_The_Tetrarchs_03.jpg",
-                "caption": ""
+                "caption": "The Tetrarchs"
             }
         ]
     },
@@ -178,26 +310,64 @@
             {
                 "age-name": "Reign of Constantine",
                 "time":" 324 - 337 CE",
-                "desc": "",
+                "desc": "The age of Constantine marked a distinct epoch in the history of the Roman Empire and a pivotal moment in the transition from classical antiquity to the Middle Ages. He built a new imperial residence at the city of Byzantium and renamed it New Rome, later adopting the name Constantinople after himself, where it was located in modern Istanbul",
                 "img-url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Statua_di_Costantino_ai_musei_capitolini.jpg/1200px-Statua_di_Costantino_ai_musei_capitolini.jpg",
-                "caption": ""
+                "caption": "Constantine I"
+            },
+
+            {
+                "age-name": "The Definition of Talmud",
+                "time":" circa 400 CE",
+                "desc": "Rabbinic tradition holds that the details and interpretation of the Torah (Written Law), which are called the Oral Torah or Oral Law, were originally an unwritten tradition based upon the Law given to Moses on Mount Sinai. However, as the persecutions of the Jews increased and the details were in danger of being forgotten, these oral laws were recorded by rabbi Judah ha-Nasi (\"Judah the Prince\") in the Mishnah, redacted c. 200 CE. The Talmud was a compilation of both the Mishnah and the Gemara, rabbinic commentaries redacted over the next three centuries. ",
+                "img-url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/The_Talmud_students.jpg",
+                "caption": "Talmud Students",
+                "color":true
             },
         
             {
                 "age-name": "Reign of Justinian",
                 "time":"527 - 565 CE",
-                "desc": "",
+                "desc": "His reign is marked by the ambitious but only partly realized renovatio imperii, or \"restoration of the Empire\". This ambition was expressed by the partial recovery of the territories of the defunct Western Roman Empire.",
                 "img-url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Mosaic_of_Justinianus_I_-_Basilica_San_Vitale_%28Ravenna%29.jpg",
-                "caption": ""
+                "caption": "Justinian I"
+            },
+
+            {
+                "age-name": "Jersalem taken by Persian - Sassanid",
+                "time":"614 CE",
+                "desc": "The Sasanian conquest of Jerusalem occurred after a brief siege of the city by the Sasanian military in 614 CE, and was a significant event in the Byzantine-Sasanian War of 602-628 ",
+                "img-url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Ancient_Sasanid_Cataphract_Uther_Oxford_2003_06_2%281%29.jpg",
+                "caption": "Sassanian Cataphract: \nreconstructed",
+                "color":true
             },
         
             {
                 "age-name": "Hegira: Beginning of Islam",
                 "time":" 622 BC",
-                "desc": "",
+                "desc": "The Hijrah or Hijra was the journey of the Islamic prophet Muhammad and his followers from Mecca to Medina. The year in which the Hijrah took place is also identified as the epoch of the Lunar Hijri and Solar Hijri calendars; its date equates to 16 July 622 in the Julian calendar.",
                 "img-url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Prayer_in_Cairo_1865.jpg/1200px-Prayer_in_Cairo_1865.jpg",
-                "caption": ""
+                "caption": "parayer in Caira"
+            },
+
+            {
+                "age-name": "Byzantium takes Jerusalem",
+                "time":"628 CE",
+                "desc": "The Byzantine-Sasanian War of 602-628 was the final and most devastating of the series of wars fought between the Byzantine / Roman Empire and the Sasanian Empire of Iran.",
+                "img-url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Sasanides_in_Byzantine_palace.jpg/576px-Sasanides_in_Byzantine_palace.jpg",
+                "caption": "Sassanian delegation\n in Byzantium",
+                "color":true
+            },
+
+            {
+                "age-name": "Arabs conquer Jerusalem",
+                "time":"638 CE",
+                "desc": "The siege of Jerusalem (636-637) was part of the Muslim conquest of the Levant and the result of the military efforts of the Rashidun Caliphate against the Byzantine Empire in the year 636-637/38. It began when the Rashidun army, under the command of Abu Ubayda, besieged Jerusalem beginning in November 636. After six months, the Patriarch Sophronius agreed to surrender, on condition that he submit only to the Caliph. According to Islamic tradition, in 637 or 638, Caliph Umar (r. 634-644) traveled to Jerusalem in person to receive the submission of the city. The Patriarch thus surrendered to him. ",
+                "img-url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Holy_sepulchre_exterior.jpg",
+                "caption": "Holy Sepulchre",
+                "color":true
             }
+
+            
         ]
     },
 
@@ -210,26 +380,43 @@
             {
                 "age-name": "Ummayud Dynasty",
                 "time":" 661 - 751 CE",
-                "desc": "",
-                "img-url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/110409_046.jpg/640px-110409_046.jpg",
-                "caption": ""
+                "desc": "were the ruling Arab family of the Caliphate between 661 and 750 and later of al-Andalus (Islamic Iberia) between 756 and 1031. In the pre-Islamic period, they were a prominent clan of the Meccan tribe of Quraysh, descended from Umayya ibn Abd Shams.",
+                "img-url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/First_Umayyad_gold_dinar%2C_Caliph_Abd_al-Malik%2C_695_CE.jpg/776px-First_Umayyad_gold_dinar%2C_Caliph_Abd_al-Malik%2C_695_CE.jpg",
+                "caption": "Gold dinar"
+            },
+
+            {
+                "age-name": "Dome of Rock",
+                "time":" 691CE",
+                "desc": "Its initial construction was undertaken by the Umayyad Caliphate on the orders of Abd al-Malik during the Second Fitna in 691-692 CE. Designated by UNESCO as a World Heritage Site, it has been called \"Jerusalem's most recognizable landmark\"",
+                "img-url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Jerusalem-2013%282%29-Temple_Mount-Dome_of_the_Rock_%28SE_exposure%29.jpg/640px-Jerusalem-2013%282%29-Temple_Mount-Dome_of_the_Rock_%28SE_exposure%29.jpg",
+                "caption": "Dome of Rock"
             },
         
             {
                 "age-name": "Abbasid Dynasty",
                 "time":" 750 - 1258 CE",
-                "desc": "",
+                "desc": "The Abbasid Caliphate was the third caliphate to succeed the Islamic prophet Muhammad. It was founded by a dynasty descended from Muhammad's uncle, Abbas ibn Abd al-Muttalib (566-653 CE), from whom the dynasty takes its name",
                 "img-url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Decorated_niche%2C_750-825_CE%2C_Afrasiab%2C_Samarkand.jpg/220px-Decorated_niche%2C_750-825_CE%2C_Afrasiab%2C_Samarkand.jpg",
-                "caption": ""
+                "caption": "Arch at mosque"
+            },
+
+            {
+                "age-name": "Reign of Ahmed ibn Tulun",
+                "time":"877 - 905 CE",
+                "desc": "After the first Abbasid period (750-878), the Tulunids, a mamluk dynasty of Turkic origin, managed to independently rule over Egypt and much of Greater Syria, including Palestine, for almost three decades (878-905). Ahmad ibn Tulun, the founder of the Egypt-based dynasty, consolidated his rule over Palestine between 878 and 880 and passed it on to his son at his death in 884. According to Patriarch Elias III of Jerusalem, Ibn Tulun finished a period of persecution against Christians by naming a Christian governor in Ramla (or perhaps Jerusalem), the governor initiating the renovation of churches in the city.",
+                "img-url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/%D7%9B%D7%A0%D7%A1%D7%99%D7%99%D7%AA_%D7%98%D7%A8%D7%94_%D7%A1%D7%A0%D7%98%D7%94_%D7%91%D7%9E%D7%91%D7%98_%D7%9E%D7%94%D7%9E%D7%92%D7%93%D7%9C_%D7%94%D7%9C%D7%91%D7%9F_-_%D7%9E%D7%A9%D7%9E%D7%90%D7%9C_%D7%A7%D7%A8%D7%99%D7%99%D7%AA_%D7%94%D7%9E%D7%9E%D7%A9%D7%9C%D7%94%2C_%D7%9E%D7%99%D7%9E%D7%99%D7%9F_%D7%94%D7%9E%D7%A1%D7%92%D7%93_%D7%94%D7%9C%D7%91%D7%9F_%D7%95%D7%91%D7%A8%D7%A7%D7%A2_%D7%94%D7%A2%D7%99%D7%A8_%D7%9E%D7%95%D7%93%D7%99%D7%A2%D7%99%D7%9F.JPG/640px-thumbnail.jpg",
+                "caption": "Ramla today",
+                "color":true
             },
         
-        
+            
             {
                 "age-name": "Fatimid Dynasty",
                 "time":"973 - 1171 CE",
-                "desc": "",
+                "desc": "The Fatimids' claimed pedigree of descent from Fatima and Ali was central to their legitimacy as the legitimate imams in an unbroken, divinely ordained line from Ali onwards.",
                 "img-url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Great_Mosque_of_Cordoba%2C_interior%2C_8th_-_10th_centuries_%2838%29_%2829721130342%29.jpg/800px-Great_Mosque_of_Cordoba%2C_interior%2C_8th_-_10th_centuries_%2838%29_%2829721130342%29.jpg",
-                "caption": ""
+                "caption": "Great Mosque Cordoba"
             }
         ]
     },
@@ -243,17 +430,35 @@
             {
                 "age-name": "First Crusade",
                 "time":"1096 - 1099 CE",
-                "desc": "",
+                "desc": "The First Crusade was the first of a series of religious wars, or Crusades, initiated, supported and at times directed by the Latin Church in the medieval period. The objective was the recovery of the Holy Land from Islamic rule",
                 "img-url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Richard-Coeur-de-Lion-on-his-way-to-Jerusalem.JPG/300px-Richard-Coeur-de-Lion-on-his-way-to-Jerusalem.JPG",
-                "caption": ""
+                "caption": "Richard Lion Hear: III Crusade"
+            },
+
+            {
+                "age-name": "Kingdom of Jerusalemme",
+                "time":"1099 - 1187 CE",
+                "desc": "The Kingdom of Jerusalem, officially known as the Latin Kingdom of Jerusalem, also known as the Frankish Kingdom of Jerusalem,was a Crusader state that was established in the Levant immediately after the First Crusade. It lasted for almost two hundred years, from the accession of Godfrey of Bouillon in 1099 until the siege of Acre in 1291. Its history is divided into two periods with a brief interruption in its existence, beginning with its collapse after the siege of Jerusalem in 1187 and its restoration after the Third Crusade in 1192. ",
+                "img-url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Arms_of_the_Kingdom_of_Jerusalem.svg/800px-Arms_of_the_Kingdom_of_Jerusalem.svg.png",
+                "caption": "Coat of arms",
+                "color":true
+            },
+
+            {
+                "age-name": "Salah-a-din takes Jerusalem",
+                "time":"1187",
+                "desc": "Saladin had defeated the kingdom's army and conquered several cities. Balian was charged with organizing a defense. The city was full of refugees but had few soldiers. Despite this fact the defenders managed to repulse several attempts by Saladin's army to take the city by storm. Balian bargained with Saladin to buy safe passage for many, and the city was peacefully surrendered with limited bloodshed. Though Jerusalem fell, it was not the end of the Kingdom of Jerusalem, as the capital shifted first to Tyre and later to Acre after the Third Crusade. In Jerusalem, Saladin restored Muslim holy sites and generally showed tolerance towards Christians; he allowed Orthodox and Eastern Christian pilgrims to visit the holy sites freely ",
+                "img-url": "https://upload.wikimedia.org/wikipedia/commons/8/83/ChristiansBeforeSaladin.jpg",
+                "caption": "Saladin in Jerusalem",
+                "color":true
             },
         
             {
                 "age-name": "Ayyubid Dynasty",
                 "time":"1171 - 1250 CE",
-                "desc": "",
+                "desc": "also known as the Ayyubid Empire, was the founding dynasty of the medieval Sultanate of Egypt established by Saladin in 1171, following his abolition of the Fatimid Caliphate of Egypt.",
                 "img-url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Saladin_Soldan_d%27Egypte_%28BM_1879%2C1213.302%29.jpg/220px-Saladin_Soldan_d%27Egypte_%28BM_1879%2C1213.302%29.jpg",
-                "caption": ""
+                "caption": "Saladin"
             }
         ]
     },
@@ -267,9 +472,18 @@
             {
                 "age-name": "Mameluk Empire",
                 "time":"1250 - 1516 CE",
-                "desc": "",
+                "desc": "The Mamluk Sultanate, also known as Mamluk Egypt or the Mamluk Empire, was a state that ruled Egypt, the Levant and the Hejaz (western Arabia) from the mid-13th to early 16th centuries. It was ruled by a military caste of mamluks (manumitted slave soldiers) headed by the sultan.",
                 "img-url": "https://live.staticflickr.com/5230/5678802410_dc46a5dfcf_b.jpg",
-                "caption": ""
+                "caption": "Mamluk arch: Jerusalem"
+            },
+
+            {
+                "age-name": "Conquest of Akko:\n Last Crusader Stronghold ",
+                "time":"1291 CE",
+                "desc": "Acre, having been isolated and largely abandoned by Europe, was conquered by Mamluk sultan al-Ashraf Khalil in a bloody siege in 1291. In line with Mamluk policy regarding the coastal cities (to prevent their future utilization by Crusader forces), Acre was entirely destroyed, with the exception of a few religious edifices considered sacred by the Muslims, namely the Nabi Salih tomb and the Ayn Bakar spring. The destruction of the city led to popular Arabic sayings in the region enshrining its past glory",
+                "img-url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/1291_si%C3%A8ge_d%27Acre.jpg/606px-1291_si%C3%A8ge_d%27Acre.jpg",
+                "caption": "Seige of Acre",
+                "color":true
             }
         ]
     },
@@ -283,27 +497,28 @@
             {
                 "age-name": "Constantinople Falls: Ottoman Empire",
                 "time":"1453 CE",
-                "desc": "",
+                "desc": "The attacking Ottoman Army, which significantly outnumbered Constantinople's defenders, was commanded by the 21-year-old Sultan Mehmed II (later nicknamed \"the Conqueror\"), while the Byzantine army was led by Emperor Constantine XI Palaiologos. After conquering the city, Mehmed II made Constantinople the new Ottoman capital, replacing Adrianople. The conquest of Constantinople and the fall of the Byzantine Empire was a watershed of the Late Middle Ages, marking the effective end of the last remains of the Roman Empire, a state which began in roughly 27 BC and had lasted nearly 1500 years.",
                 "img-url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Hagia_Sophia_2017.jpg/700px-Hagia_Sophia_2017.jpg",
-                "caption": ""
+                "caption": "Hagia Sophia"
             },
         
         
             {
-                "age-name": "Solomon the Magnificent",
+                "age-name": "Solomon the Magnificent \n rebuilds walls of Jerusalem",
                 "time":"1520 - 1566 CE",
-                "desc": "",
+                "desc": "was the tenth and longest-reigning Sultan of the Ottoman Empire. The Walls of Jerusalem surround the Old City of Jerusalem. In 1535, when Jerusalem was part of the Ottoman Empire, Sultan Suleiman I ordered the ruined city walls to be rebuilt. The work took some four years, between 1537 and 1541.The walls are visible on most old maps of Jerusalem over the last 1,500 years. The length of the walls is 4,018 meters. The walls contain 34 watchtowers and seven main gates open for traffic, with two minor gates reopened by archaeologists. ",
                 "img-url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Jerusalem_Damaskustor_BW_1.jpg/640px-Jerusalem_Damaskustor_BW_1.jpg",
-                "caption": ""
+                "caption": "Damascus Gate",
+                "color": true
             },
         
         
             {
                 "age-name": "World War 1",
-                "time":"1914 CE",
-                "desc": "",
+                "time":"1914-1918 CE",
+                "desc": "World War I or the First World War, often abbreviated as WWI, was one of the deadliest global conflicts in history. It was fought between two coalitions, the Allies and the Central Powers. Fighting occurred throughout Europe, the Middle East, Africa, the Pacific, and parts of Asia",
                 "img-url": "https://cdn-cdaac.nitrocdn.com/tFOqLIaMYIaFjSGNUoYXbEDiJHtqbEtH/assets/static/optimized/rev-87b082e/wp-content/uploads/2018/06/world-war-1.png",
-                "caption": ""
+                "caption": "Soldiers in arms"
             }
         ]
     },
@@ -316,10 +531,10 @@
         "places":[
             {
                 "age-name": "World War 2",
-                "time":"1945 CE",
-                "desc": "",
+                "time":"1939-1945 CE",
+                "desc": "World War II or the Second World War, often abbreviated as WWII or WW2, was a global conflict that lasted from 1939 to 1945",
                 "img-url": "https://upload.wikimedia.org/wikipedia/commons/3/33/RIAN_archive_61150_Great_Patriotic_War.jpg",
-                "caption": ""
+                "caption": "soldiers"
             }
         ]
     }
